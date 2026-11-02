@@ -148,37 +148,7 @@ TunePad Project Link:(https://tunepad.com/project/130155)
 
 Note:TunePad-specific commands require the TunePad environment and may not work directly in a standard Python interpreter.
 
-8. Project Files
-
-The repository contains the project code and supporting documentation.
-
-Suggested folder structure:
-
-```text
-Electric-Momentum/
-│
-├── README.md
-│
-├── code/
-│   ├── keyboard1.py
-│   ├── keyboard2.py
-│   ├── keyboard3.py
-│   ├── electric_bass.py
-│   ├── drums_808.py
-│   ├── acoustic_guitar.py
-│   └── synth_strings.py
-│
-├── screenshots/
-│   ├── tunepad_project.png
-│   └── code_example.png
-│
-└── documentation/
-    ├── project_journal.pdf
-    ├── initial_concept_map.png
-    └── final_concept_map.png
-```
-
-9. Learning Outcomes
+8. Learning Outcomes
 
 Through this project, I learned how programming can be used as a creative tool.
 
@@ -186,9 +156,9 @@ I developed a better understanding of variables, lists, loops and musical timing
 
 The project helped me become more confident in using code to organise musical ideas and develop an original digital composition.
 
-10. Author and Acknowledgements
+9. Author and Acknowledgements
 
-Created as part of the **52685 Creative Coding** subject at the University of Technology Sydney (UTS).
+Created as part of the 52685 Creative Coding subject at the University of Technology Sydney (UTS).
 
 Author: Yiran Gu
 
